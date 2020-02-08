@@ -1,0 +1,26 @@
+_repo: The-Pentateuch-in-Its-Progressive-Revelations-of-God-to-Men_61241
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cowles, Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '51325'
+    url: http://www.gutenberg.org/2009/agents/51325
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cowles_(theologian)
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61241'
+  lccn: '40036291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Pentateuch -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: The Pentateuch, in Its Progressive Revelations of God to Men
+url: http://www.gutenberg.org/ebooks/61241
